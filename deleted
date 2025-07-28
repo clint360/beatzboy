@@ -1,0 +1,18 @@
+ {
+        "name": "Spotify",
+        "link": "https://open.spotify.com/album/gifted",
+        "color": "bg-green-500 hover:bg-green-600",
+        "icon": "🎵"
+      },
+      {
+        "name": "Apple Music",
+        "link": "https://music.apple.com/album/gifted",
+        "color": "bg-pink-500 hover:bg-pink-600",
+        "icon": "🍎"
+      },
+      {
+        "name": "Boomplay",
+        "link": "https://boomplay.com/album/gifted",
+        "color": "bg-yellow-500 hover:bg-yellow-600",
+        "icon": "💥"
+      },

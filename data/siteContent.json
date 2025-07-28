@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "🎧 Beatzboy – Feel the Frequency",
+    "subtitle": "Producer. Visionary. Storyteller. Dive into the sound that defines a generation.",
+    "ctaText": "🎁 Listen to Gifted",
+    "ctaLink": "/gifted",
+    "backgroundImage": "/images/hero-bg.jpg"
+  },
+  "about": {
+    "title": "About Beatzboy",
+    "text": "From Cameroon to the world, Beatzboy crafts sonic stories born from struggle, prayer, and persistence. Every beat tells a story, every melody carries a message, and every track is a testament to the power of faith and creativity.",
+    "image": "/images/beatzboy-portrait.jpg"
+  },
+  "discography": ["/images/gifted-cover.jpg", "/images/cover2.jpg", "/images/cover3.jpg", "/images/cover4.jpg"],
+  "gifted": {
+    "title": "🎁 Gifted – The Album",
+    "platforms": [
+     
+      {
+        "name": "YouTube",
+        "link": "https://youtube.com/playlist/gifted",
+        "color": "bg-red-500 hover:bg-red-600",
+        "icon": "📺"
+      }
+    ],
+    "support": {
+      "text": "Support The Gifted Album",
+      "link": "https://checkout.fapshi.com/donation/89659737"
+    },
+    "quote": "Every line, every sound, every prayer — Gifted is my soul on a beat.",
+    "tracklist": [
+      "1. Divine Intervention",
+      "2. Gifted (Title Track)",
+      "3. Frequency",
+      "4. Cameroon Dreams",
+      "5. Prayer & Persistence",
+      "6. Golden Hour",
+      "7. Blessed Beats",
+      "8. Soul on Fire"
+    ]
+  },
+  "footer": {
+    "socials": [
+      { "name": "Instagram", "link": "https://instagram.com/beatzboy", "icon": "📷" },
+      { "name": "Twitter", "link": "https://twitter.com/beatzboy", "icon": "🐦" },
+      { "name": "YouTube", "link": "https://youtube.com/beatzboy", "icon": "📺" },
+      { "name": "SoundCloud", "link": "https://soundcloud.com/beatzboy", "icon": "☁️" }
+    ]
+  }
+}
